@@ -5,7 +5,7 @@ Daily, gridded **Keetch-Byram Drought Index (KBDI)** calculated in **Google Eart
 This code was written for my M.S. thesis in Geography at the University of Arkansas:
 **[Fire Potential in Arkansas through the Lens of the Keetch-Byram Drought Index](https://scholarworks.uark.edu/etd/5275)** (2024).
 
-![Daily KBDI for Arkansas on October 1, 15, and 30, 2023](img/kbdi_october_2023.png)
+[Daily KBDI for Arkansas on October 1, 15, and 30, 2023](img/kbdi_october_2023.png)
 *Daily KBDI across Arkansas on October 1, 15, and 30, 2023 (0 = no drought, 800 = maximum drought).*
 
 ---
