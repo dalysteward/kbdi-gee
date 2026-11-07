@@ -39,12 +39,12 @@ To use a different state, change `state_name` and `state_fp` (the state FIPS cod
 
 ## Results
 
-![Mean monthly KBDI by Arkansas county, 2012–2023](img/kbdi_avg_by_county.jpg)
+[Mean monthly KBDI by Arkansas county, 2012–2023](img/kbdi_avg_by_county.jpg)
 *Mean monthly KBDI by county, 2012–2023.*
 
 In the thesis, monthly county KBDI was compared with 2012–2024 VIIRS 375 m active fire detections. KBDI was significantly correlated with fire occurrence during peak fire season in the agricultural counties of eastern Arkansas, but not in the forested west and north, where most fires are human-caused.
 
-![Counties with a significant VIIRS–KBDI correlation](img/viirs_kbdi_correlation.jpg)
+[Counties with a significant VIIRS–KBDI correlation](img/viirs_kbdi_correlation.jpg)
 *Counties with a significant correlation between fire occurrence and KBDI (r > 0.5, 90% confidence) during peak fire season.*
 
 ## Data sources
